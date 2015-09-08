@@ -2,8 +2,8 @@
 //  Copyright (c) 2014 Albert Watson. All rights reserved.
 //  _________________________________________________________________
 //
-//  Codeplay, documentation is intended to give a rough idea of what
-//  is going on, for more info please don't hesitate to contact me.
+//  Documentation is intended to give a rough idea of what is going
+//  on, for more info please don't hesitate to contact me.
 //  _________________________________________________________________
 //
 //  Purpose of code:
